@@ -8,3 +8,6 @@ env.bak/
 venv.bak/
 .vscode/
 .editorconfig
+
+# .idea
+.idea
